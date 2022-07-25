@@ -1,5 +1,5 @@
 Summary:	Standards compliant, fast, secure markdown processing library in C
-Summary(pl.UTF-8):	Zgodna ze standardami, szybka, bezpieczna biblioteka do preztwarzania formatu markdown z poziomu C
+Summary(pl.UTF-8):	Zgodna ze standardami, szybka, bezpieczna biblioteka do przetwarzania formatu markdown z poziomu C
 Name:		hoedown
 Version:	3.0.7
 Release:	1
